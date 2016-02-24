@@ -1,3 +1,4 @@
+//hello
 boolean intro = false;
 boolean mainroom = true;
 boolean sideroom1 = false;
